@@ -1,0 +1,13 @@
+.venv/
+.build/
+__pycache__/
+tools/*.exe
+*.exe
+.running.json
+settings.json
+history.json
+evidence/fixtures/
+evidence/output/
+影片/
+evidence/
+*.log
